@@ -1,0 +1,19 @@
+# Build files
+build/
+
+# Compiled binaries
+sudoku-solver
+
+# IDE files
+.vscode/
+.idea/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt.user
+cmake_install.cmake
+Makefile
+
+# Generated files
+Makefile
