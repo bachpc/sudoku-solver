@@ -55,3 +55,6 @@ sudo apt-get install libgtkmm-3.0-dev
 - Click the "Solve" button to find the solution.
 - If a solution exists, the solved puzzle will be displayed.
 - If no solution is found, a message will indicate that the puzzle is unsolvable.
+
+![sudoku-demo](https://github.com/bachpc/sudoku-solver/assets/44538737/d5b96718-c298-4738-943f-928d558b5c66)
+
